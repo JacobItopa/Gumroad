@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=djgumroad
+POSTGRES_USER=MZoIiJSbVBuUwbiDZRbqlsmWxgorVOYh
+POSTGRES_PASSWORD=i7vGkcDVyrW62PSA5xl880LPGsA4AYNobajUG1sNyEGciT0aVUpHeTLDtKIT7F8O
